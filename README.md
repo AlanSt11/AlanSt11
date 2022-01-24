@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Habilidades:
 
-## Skills:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
