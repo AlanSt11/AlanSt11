@@ -1,23 +1,52 @@
-- 👋 Hi, I’m @AlanSt11
-- 👀 I’m interested in  la creación de videojuegos, del desarrollo web y las aplicaciones moviles
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on google
-- 📫 How to reach me....
-
-<!---
-AlanSt11/AlanSt11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-## Habilidades:
-
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-</br>
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+  <h1 align="center">Hola 👋 Soy Alan St</h1>
+  <h3 align="center">Estudio la carrera de Tecnico en programación, tambien soy autodidacta, y practico futbol soccer.
+      Me gusta aprender cosas nuevas, emprender y trabajar en equipo
+  </h3>
+</div>
 
 
+<div id="badges" align="center">
+    <a href="https://twitter.com/IAlanst?t=B4KKSZBbOFWi2GYF-FVOeg&s=09" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/IAlanst?t=B4KKSZBbOFWi2GYF-FVOeg&s=09?color=red&label=Alan%20St&logo=twitter&style=for-the-badge"
+            alt="Twitter Badge" />
+    </a>
+  <a href="https://github.com/AlanSt11" target="_blank">
+        <img src="https://img.shields.io/github/followers/AlanSt11?color=red&label=AlanSt&logo=github&style=for-the-badge"
+            alt="Twitter Badge" />
+    </a>
+</div>
+
+---
+
+### 👨‍💻 Acerca de :
+
+- Soy emprendedor
+- Me gusta dearrollar sitios web
+- Website [portafolio](https://portafolio-alanst.netlify.app/)
+
+<div align="left">
+    <h3>🔨 Languages y herramientas:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title"Node.js" alt="Nodejs" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title"Firebase" alt="Firebase" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title"Java" alt="Java" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title"XD" alt="XD" width="40" height="40"/>
+      </div>
+</div>
+
+---
+
+
+### 📊 Mis estadísticas :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlanSt11&theme=tokyonight&locale=es)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanSt11&show_icons=true&theme=algolia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanSt11&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
